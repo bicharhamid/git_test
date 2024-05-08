@@ -1,0 +1,2 @@
+This is a secondary file that is used to store the data of the user
+that is currently logged in. This file is used to store the data of the
